@@ -1,2 +1,3 @@
-# zur-reinheit-funktionaler-oberflaechen
+# Zur Reinheit funktionaler Oberflächen
+
 Gesammelte Fachaufsätze
