@@ -11,8 +11,8 @@ jobs:
       uses: jenkey2011/vuepress-deploy@master
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        TARGET_REPO: username/repo
-        TARGET_BRANCH: master
+        TARGET_REPO: clear-clean/zur-reinheit-funktionaler-oberflaechen
+        TARGET_BRANCH: main
         BUILD_SCRIPT: yarn && yarn docs:build
-        BUILD_DIR: docs/.vuepress/dist
+        BUILD_DIR: .vuepress/dist
         # CNAME: https://www.xxx.com
