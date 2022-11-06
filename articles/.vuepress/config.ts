@@ -60,8 +60,8 @@ export default defineUserConfig({
             description: "Gesammelte Fachaufsätze",
             sns: {
                 github: "clear-clean",
-                linkedin: "xiaohan-zou-55bba0160",
-                email: "renovamenzxh@gmail.com"
+                linkedin: "win-labuda-5a1791128",
+                email: "win@labuda.net"
             }
         },
 
