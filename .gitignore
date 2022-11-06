@@ -1,5 +1,7 @@
 token
 .temp
+.cache
+dist
 
 # Logs
 logs
