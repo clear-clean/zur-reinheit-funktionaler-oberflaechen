@@ -5,7 +5,7 @@ import { viteBundler } from "@vuepress/bundler-vite";
 import { navbar } from "./configs"
 
 export default defineUserConfig({
-    base: "/",
+    base: "/zur-reinheit-funktionaler-oberflaechen/",
 
     head: [
         [
