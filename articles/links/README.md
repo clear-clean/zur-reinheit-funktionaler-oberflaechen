@@ -9,7 +9,7 @@ links:
         img: /img/links/me.png
         desc: My blog
         
-  - title: Other Versions
+  - title: Sonstiges
     items:
       - sitename: VuePress 1
         url: https://vuepress-theme-gungnir.vercel.app
