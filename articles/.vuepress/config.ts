@@ -112,6 +112,10 @@ export default defineUserConfig({
 
     },
 
+    themePlugins: {
+      chartjs: true
+    },
+
     footer: `
         &copy; <a href="https://github.com/clear-clean" target="_blank">Clear&Clean GmbH</a> 2022
         <br>
