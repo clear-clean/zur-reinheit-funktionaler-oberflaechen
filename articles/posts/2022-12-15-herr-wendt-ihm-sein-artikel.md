@@ -25,7 +25,7 @@ Und hier unmotiviert eine Grafik:
 
 ## Images
 
-![Testtest]( /img/in-post/2022-11-01/win-mit-kamera.jpg)
+![Testtest](/img/in-post/2022-11-01/win-mit-kamera.jpg)
 
 ## Weitere Überschrift
 
