@@ -23,22 +23,9 @@ Oh Du Fröhliche
 
 Und hier unmotiviert eine Grafik:
 
-```chart
-{
-  "type": "doughnut",
-  "data": {
-    "datasets": [{
-      "data": [10, 20, 30],
-      "backgroundColor": [
-        "rgba(255, 99, 132)",
-        "rgba(255, 206, 86)",
-        "rgba(54, 162, 235)"
-      ]
-    }],
-    "labels": ["Red", "Yellow", "Blue"]
-  }
-}
-```
+## Images
+
+![Testtest]( /img/in-post/2022-11-01/win-mit-kamera.jpg)
 
 ## Weitere Überschrift
 
