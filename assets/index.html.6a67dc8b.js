@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-c8f1a0d4","path":"/tags/clearclean/","title":"clearclean | Tags","lang":"de","frontmatter":{"title":"clearclean | Tags","layout":"Tags","blog":{"type":"category","name":"clearclean","key":"tag"}},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{a as data};

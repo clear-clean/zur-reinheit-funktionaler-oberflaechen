@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f155c7da","path":"/tags/willkommen/","title":"willkommen | Tags","lang":"de","frontmatter":{"title":"willkommen | Tags","layout":"Tags","blog":{"type":"category","name":"willkommen","key":"tag"}},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{e as data};
